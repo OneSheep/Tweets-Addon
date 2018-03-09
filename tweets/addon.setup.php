@@ -8,5 +8,5 @@ return [
     'version'        => '1.0.0',
     'namespace'      => 'CAP\Tweets',
     'settings_exist' => FALSE,
-    'docs_url'       => 'https://github.com/OneSheep/Explode-Addon'
+    'docs_url'       => 'https://github.com/OneSheep/Tweets-Addon'
 ];
